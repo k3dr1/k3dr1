@@ -16,5 +16,5 @@ My [Leetcode](https://leetcode.com/k3dr1/)
 </p>
 
 <p align="center">
-  My <a href="https://leetcode.com/lolka/">Leetcode</a>
+  My <a href="https://leetcode.com/k3dr1/">Leetcode</a>
 </p>
