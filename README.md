@@ -2,19 +2,19 @@
 
 <!--
 **k3dr1/k3dr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3dr1&theme=github_dark&layout=normal&langs_count=10&exclude_repo=learnopengl)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 My [Leetcode](https://leetcode.com/k3dr1/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k3dr1&theme=github_dark&layout=normal&langs_count=10&exclude_repo=learnopengl)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3dr1&theme=github_dark&layout=normal&langs_count=10&exclude_repo=learnopengl" alt="Top Languages"/>
+  </a>
+</p>
+
+<p align="center">
+  My <a href="https://leetcode.com/lolka/">Leetcode</a>
+</p>
