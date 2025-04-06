@@ -11,7 +11,7 @@ My [Leetcode](https://leetcode.com/k3dr1/)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3dr1&theme=github_dark&layout=normal&langs_count=10&exclude_repo=learnopengl" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3dr1&theme=github_dark&layout=normal&langs_count=15&exclude_repo=learnopengl" alt="Top Languages"/>
   </a>
 </p>
 
