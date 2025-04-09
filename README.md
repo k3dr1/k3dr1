@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   My <a href="https://k3dr1.github.io/">site</a>
 </p>
 
