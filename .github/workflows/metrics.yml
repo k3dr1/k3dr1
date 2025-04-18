@@ -18,5 +18,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_stars: yes
-          plugin_stars_limit: 10
+          plugin_stars_limit: 7
           base:
