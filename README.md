@@ -9,3 +9,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3dr1&theme=github_dark&layout=compact&langs_count=15&exclude_repo=learnopengl" alt="Top Languages" />
   </a>
 </p>
+
+![Metrics](/github-metrics.svg)
