@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          base: []
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_stars: yes
           plugin_stars_limit: 10
+          base:
